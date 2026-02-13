@@ -1,6 +1,5 @@
 import {Pool} from 'pg';
 import dotenv from 'dotenv';
-import { text } from 'node:stream/consumers';
 
 dotenv.config();
 
